@@ -5,11 +5,8 @@ This app was built using [Thunkable](https://x.thunkable.com), a no-code app bui
 **View my project on Thunkable:**  
 [Click here to open it](https://x.thunkable.com/projectPage/68e69b5b38d49dd70ad3da04)
 
-**Note on Source Code**<br>
-This app was built using Thunkable, a no-code, block-based app builder. Because the app’s logic is implemented with Thunkable blocks rather than traditional text-based code, the source code cannot be directly exported in a standard programming format.
-
-However, the full project can be viewed and edited using the official Thunkable project link below:<br>
-[View the project on Thunkable](https://x.thunkable.com/projectPage/68e69b5b38d49dd70ad3da04)
+**Source Code**<br>
+The source code for DuctuAI is included in the latest release of this repository.
 
 ---
 
